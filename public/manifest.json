@@ -1,0 +1,15 @@
+{
+    "short_name": "UC San Diego",
+    "name": "UCSD App",
+    "icons": [
+      {
+        "src": "/img/favicon.ico",
+        "type": "image/png",
+        "sizes": "180x180"
+      }
+    ],
+    "start_url": "index.html",
+    "background_color": "#333",
+    "display": "standalone",
+    "theme_color": "#002855"
+  }
