@@ -8323,7 +8323,7 @@ input[type="text"] {
 
 .navbar-header .search-icon.search-expand.dropdown-toggle .search-icon {
     padding: 1em;
-    background-image: url("../img/icon_search.png");
+    background-image: url("../oimg/is.png");
     width: 30px;
     background-repeat: no-repeat;
     height: 29px;
@@ -9047,7 +9047,7 @@ section.jumbotron-hero {
 .jumbotron-quote-slider {
     background-color: #006A96;
     color: #fff;
-    background-image: url("../img/bg_blue_lines.png")
+    background-image: url("../oimg/bgbl.png")
 }
 
 .jumbotron-quote-slider .text-link-secondary {
@@ -9123,13 +9123,13 @@ section.jumbotron-hero {
 }
 
 .quote-slider.slick-slider .slick-arrow.slick-prev {
-    background: url("../img/icon_arrow.png") no-repeat;
+    background: url("../oimg/ia.png") no-repeat;
     left: -23px;
     transform: rotate(-90deg)
 }
 
 .quote-slider.slick-slider .slick-arrow.slick-next {
-    background: url("../img/icon_arrow.png") no-repeat;
+    background: url("../oimg/ia.png") no-repeat;
     transform: rotate(90deg)
 }
 
@@ -9144,11 +9144,11 @@ section.jumbotron-hero {
 }
 
 .jumbotron-callout-sm.jumbotron-research {
-    background-image: url("../img/bg_research.jpg")
+    background-image: url("../oimg/bgr.jpg")
 }
 
 .jumbotron.jumbotron-attend {
-    background-image: url("../img/bg_attend.jpg");
+    background-image: url("../oimg/bga.jpg");
     background-position: center top
 }
 
@@ -9158,7 +9158,7 @@ section.jumbotron-hero {
 
 .jumbotron-callout-sm .campus-life {
     padding: 0;
-    background-image: url("../img/bg_campus_life.jpg");
+    background-image: url("../oimg/bgcl.jpg");
     background-size: cover;
     background-position: center;
     min-height: 275px;
@@ -9174,7 +9174,7 @@ section.jumbotron-hero {
 }
 
 .instragram-feed {
-    background: url("../img/placeholder_ig.jpg") no-repeat;
+    background: url("../oimg/pig.jpg") no-repeat;
     height: 400px;
     background-size: cover
 }
@@ -9239,7 +9239,7 @@ section.jumbotron-hero {
 }
 
 .jumbotron-event-multiple {
-    background-image: url("../img/bg_event_multiple.jpg");
+    background-image: url("../oimg/bgem.jpg");
     color: #fff
 }
 
@@ -10028,7 +10028,7 @@ span.twitter-typeahead {
 }
 
 .jumbotron-map {
-    background-image: url("../img/bg_map.jpg")
+    background-image: url("../oimg/bgm.jpg")
 }
 
 .jumbotron-map .panel.panel-default {
@@ -10077,7 +10077,7 @@ span.twitter-typeahead {
 }
 
 .jumbotron-campus-life {
-    background-image: url("../img/bg_campus_life_hero.jpg")
+    background-image: url("../oimg/bgclh.jpg")
 }
 
 .jumbotron-tab {
@@ -10551,8 +10551,8 @@ span.twitter-typeahead {
         font-size: 1.22em
     }
     .campaign-mod {
-        background: url("../img/bg_campaign.jpg");
-        background-image: url("../img/bg_campaign.jpg") !important
+        background: url("../oimg/bgc.jpg");
+        background-image: url("../oimg/bgc.jpg") !important
     }
     .jumbotron-support {
         background-image: url("../img/bg_support_campaign.jpg");
@@ -10679,12 +10679,12 @@ span.twitter-typeahead {
         top: 100%
     }
     .quote-slider.slick-slider .slick-arrow.slick-prev {
-        background: url("../img/icon_arrow.png") no-repeat;
+        background: url("../oimg/ia.png") no-repeat;
         left: 48%;
         transform: rotate(0deg)
     }
     .quote-slider.slick-slider .slick-arrow.slick-next {
-        background: url("../img/icon_arrow.png") no-repeat;
+        background: url("../oimg/ia.png") no-repeat;
         transform: rotate(180deg)
     }
     .quote-slider .slick-current.slick-active {
