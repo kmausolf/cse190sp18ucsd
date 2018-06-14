@@ -8672,12 +8672,7 @@ section.jumbotron-hero {
     margin-bottom: 1.5em!important
 }
 
-.jumbotron-callout-sm.jumbotron-research {
-    background-image: url(../oimg/bgr.jpg)
-}
-
 .jumbotron.jumbotron-attend {
-    background-image: url(../oimg/bga.jpg);
     background-position: center top
 }
 
@@ -8686,7 +8681,6 @@ section.jumbotron-hero {
 }
 
 .jumbotron-callout-sm .campus-life {
-    background-image: url(../oimg/bgcl.jpg);
     background-size: cover;
     background-position: center;
     min-height: 275px;
@@ -8702,7 +8696,7 @@ section.jumbotron-hero {
 }
 
 .instragram-feed {
-    background: url(../oimg/pig.jpg) no-repeat;
+    background-repeat:no-repeat;
     height: 400px;
     background-size: cover
 }
@@ -8766,7 +8760,6 @@ section.jumbotron-hero {
 }
 
 .jumbotron-event-multiple {
-    background-image: url(../oimg/bgem.jpg);
     color: #fff
 }
 
@@ -8789,11 +8782,6 @@ section.jumbotron-hero {
 .support-callout .text-link {
     color: #484949;
     border-color: #484949
-}
-
-.campaign-mod {
-    background: #82a9d2;
-    background-image: none!important
 }
 
 .campaign-nontradition h2 {
@@ -9506,7 +9494,6 @@ span.twitter-typeahead {
 }
 
 .jumbotron-map {
-    background-image: url(../oimg/bgm.jpg)
 }
 
 .jumbotron-map .panel.panel-default {
@@ -9550,10 +9537,6 @@ span.twitter-typeahead {
 
 .jumbotron-event-multiple-alt {
     background-image: url(../img/bg_events_cheerleaders.jpg)
-}
-
-.jumbotron-campus-life {
-    background-image: url(../oimg/bgclh.jpg)
 }
 
 .jumbotron-tab {
@@ -10005,10 +9988,6 @@ span.twitter-typeahead {
     }
     h4 {
         font-size: 1.22em
-    }
-    .campaign-mod {
-        background: url(../oimg/bgc.jpg);
-        background-image: url(../oimg/bgc.jpg)!important
     }
     .jumbotron-support {
         background-image: url(../img/bg_support_campaign.jpg);
