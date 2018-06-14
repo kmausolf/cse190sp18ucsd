@@ -9984,7 +9984,8 @@ span.twitter-typeahead {
         font-size: 1.88em
     }
     h4 {
-        font-size: 1.22em
+        font-size: 1.22em;
+        line-height:1.25em;
     }
     .jumbotron-support {
         background-image: url(../img/bg_support_campaign.jpg);
